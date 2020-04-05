@@ -72,7 +72,7 @@ function draw() {
 
   door.shapeColor = 150;
 
-  flagPole.shapeColor = 160;
+  flagPole.shapeColor = 180;
   flag.shapeColor = 80;
 
   drawSprites();
